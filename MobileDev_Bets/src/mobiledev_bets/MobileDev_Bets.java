@@ -21,7 +21,7 @@ public class MobileDev_Bets
       JOptionPane.showMessageDialog(null,"Done it " );
       //pertience
       //Addaide
-        
+        // Gloria
     }
     
 }
